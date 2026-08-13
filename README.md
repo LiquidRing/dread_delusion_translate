@@ -19,7 +19,7 @@
    - `Dread Delusion_Data/StreamingAssets/MenuText/menuText_en.json`
 4. Запустите игру. В настройках ничего переключать не нужно.
 
-**Прямое скачивание:** [dread_delusion_rus.zip](https://github.com/ring-rong/dread_delusion_translate/releases/latest/download/dread_delusion_rus.zip)
+**Прямое скачивание:** [dread_delusion_rus.zip](https://github.com/LiquidRing/dread_delusion_translate/releases/latest/download/dread_delusion_rus.zip)
 (всегда последняя версия перевода). Распакуйте архив в папку игры с заменой файлов.
 
 ⚠️ После обновления игры разработчиками перевод может слететь или перестать подходить
@@ -56,7 +56,7 @@
 
 - **Lovely Hellplace** и **DreadXP** — за игру.
 - Шрифт **Alagard** — Pix3M.
-- Перевод, шрифты, портирование — [ring-rong](https://github.com/ring-rong).
+- Перевод, шрифты, портирование — [LiquidRing](https://github.com/LiquidRing).
 - Перевод текста, вычитка и портирование на 1.3.x выполнены с помощью
   **Claude Fable 5** (Anthropic).
 

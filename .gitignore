@@ -4,3 +4,6 @@
 !/README.md
 !/screenshots
 !/Dread Delusion_Data
+
+# Локальные бэкапы resources.assets, которые делаются перед экспериментами — не публикуем.
+Dread Delusion_Data/*.bak*
